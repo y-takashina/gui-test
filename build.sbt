@@ -1,4 +1,4 @@
-name := "gui-test"
+name := "scala-javafx"
 
 version := "1.0"
 
