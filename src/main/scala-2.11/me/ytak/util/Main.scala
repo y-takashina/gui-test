@@ -1,4 +1,4 @@
-package ytak.me.util
+package me.ytak.util
 
 import javafx.application.Application
 import javafx.fxml.FXMLLoader

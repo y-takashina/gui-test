@@ -1,4 +1,4 @@
-package ytak.me.util
+package me.ytak.util
 
 import javafx.fxml.FXML
 import javafx.scene.control.{Button, Label}
